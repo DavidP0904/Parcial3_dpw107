@@ -13,7 +13,7 @@ Se hizo uso de vue con enlaces simples sobre redes sociales teniendo en cuenta e
 > [!TIP]
 Se dejo el codigo para un copiado más simple tomando en cuenta que puede usarse de forma más simple así.
 
-```
+```html
 <template>
   <div class="hello-world">
     <h2>{{ msg }}</h2>
